@@ -1,4 +1,4 @@
-### Hi there, I'm Josiah 👋
+# Hi there, I'm Josiah 👋
 
 - 🔭 I’m currently working on [Turbo](https://turbo.computer)
 - 🌱 I’m currently learning WGSL
@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play bass
 
-### My Stats
+## My Stats
   
 <a href="https://github.com/jozanza/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=jozanza&show_icons=true&theme=midnight-purple&line_height=24&hide=stars&bg_color=0d1117" />
