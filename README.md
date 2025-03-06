@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on [Turbo](https://turbo.computer)
 - 🌱 I’m currently learning WGSL
-- 👯 I’m looking to collaborate on [Turbo Demos](https://github.com/super-turbo-society/turbo-demos)
-- 🤔 I’m looking for help with [Turbo's Rust SDK](https://github.com/super-turbo-society/turbo-genesis-sdk)
+- 👯 I’m looking to collaborate on [Turbo's Rust SDK](https://github.com/super-turbo-society/turbo-genesis-sdk)
+- 🤔 I’m looking for help with [Turbo Demos](https://github.com/super-turbo-society/turbo-demos)
 - 💬 Ask me about WebGPU/WebAssembly/Rust/TypeScript
 - 📫 How to reach me: [@jozanza](https://x.com/jozanza)
 - 😄 Pronouns: He/Him
